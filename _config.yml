@@ -18,7 +18,7 @@ color:
   primary: 42b0e5 
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 727272 
-  secondary-dark: 425fe5 # outlines the menu
+  secondary-dark: 000000 # outlines the menu
 
 # Footer settings
 footer:
