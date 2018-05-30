@@ -18,8 +18,8 @@ bing_verify:
 color:
   primary: 42b0e5 
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 333333 
-  secondary-dark: 6a6a6a 
+  secondary: 727272 
+  secondary-dark: 6a6a6a # outlines the menu
 
 # Footer settings
 footer:
