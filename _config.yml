@@ -4,7 +4,7 @@ email: goday@purdue.edu
 url: https://gmoday.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: <a href="http://learninglab.psych.purdue.edu/">"Purdue Cognition and Learning Lab"</a>
+skills: "Graduate Researcher <br> Purdue Cognition and Learning Lab"
 meta_author: O'Day Garrett
 
 # Google webmaster tools
@@ -18,7 +18,7 @@ color:
   primary: 42b0e5 
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 727272 
-  secondary-dark: 000000 # outlines the menu
+  secondary-dark: 727272 # outlines the menu
 
 # Footer settings
 footer:
