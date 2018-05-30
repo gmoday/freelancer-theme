@@ -4,8 +4,7 @@ email: goday@purdue.edu
 url: https://gmoday.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Graduate Researcher <br> <a href="http://learninglab.psych.purdue.edu/index.html/">Purdue Cognition and Learning Lab</a>.
- Purdue Cognition and Learning Lab"
+skills: "Graduate Researcher <br> <a href="http://learninglab.psych.purdue.edu/index.html/">Purdue Cognition and Learning Lab</a>"
 meta_author: O'Day Garrett
 
 # Google webmaster tools
@@ -43,7 +42,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: <a href="http://www.purdue.edu/hhs/psy/">Department of Psychological Sciences</a>.
+  - line: <a href="http://www.purdue.edu/hhs/psy/">Department of Psychological Sciences</a>
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
