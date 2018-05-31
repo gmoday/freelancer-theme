@@ -1,12 +1,9 @@
 ---
 layout: default
-modal-id: test
+modal-id: 1
 date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: this is a test
+project-date: 31 May 2018
+description: <embed src="https://gmoday.github.io/cv.pdf" type="application/pdf" />
+
 
 ---
