@@ -1,4 +1,4 @@
 ---
-<embed src="https://gmoday.github.io/CV.ODay.Garrett.05.29.2018.pdf" type="application/pdf" />
+this is a test
 
 ---
