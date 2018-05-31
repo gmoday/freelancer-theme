@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-17
-img: CV.ODay.Garrett.05.29.2018.pdf
+img: cabin.pdf
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
