@@ -2,7 +2,7 @@
 title: "Creation of a Landscape: The Logic or Urbanization in the PRC"
 date: 2013-11-01
 layout: pdf
-image. cv.png
+image: cv.png
 categories: writing
 permalink: /writing/creation-of-a-landscape/
 ---
