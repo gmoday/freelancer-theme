@@ -1,12 +1,12 @@
 ---
-title: "Creation of a Landscape: The Logic or Urbanization in the PRC"
-description: NYU East Asian Studies Department, MA Thesis Defense
-date: 2013-11-01
-layout: pdf
-categories: writing
-permalink: /writing/creation-of-a-landscape/
+layout: default
+modal-id: 1
+date: 2014-07-17
 img: cv.png
+description: <iframe src="https://drive.google.com/file/d/10lw51v7Cn_rxbymnPSDFwjuJXAWc12FS/preview" width="1200" height="1200"></iframe>
+
+
+
+
 
 ---
-
-<iframe src="https://drive.google.com/file/d/10lw51v7Cn_rxbymnPSDFwjuJXAWc12FS/preview" width="1280" height="800"></iframe>
