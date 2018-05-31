@@ -6,6 +6,7 @@ layout: pdf
 categories: writing
 permalink: /writing/creation-of-a-landscape/
 img: cv.png
+<iframe src="https://drive.google.com/file/d/10lw51v7Cn_rxbymnPSDFwjuJXAWc12FS/preview" width="100%" height="100%"></iframe>
+
 ---
 
-<iframe src="https://drive.google.com/file/d/10lw51v7Cn_rxbymnPSDFwjuJXAWc12FS/preview" width="100%" height="100%"></iframe>
