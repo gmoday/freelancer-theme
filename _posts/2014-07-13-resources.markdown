@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 5
 date: 2014-07-15
-img: hobbies.png
+img: resources.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
