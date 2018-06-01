@@ -43,7 +43,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: <a href="http://www.purdue.edu/hhs/psy/">Department of Psychological Sciences</a>
-
+  - line: <a href="http://learninglab.psych.purdue.edu/">Cognition and Learning Lab</a>
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
