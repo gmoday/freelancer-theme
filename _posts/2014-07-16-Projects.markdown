@@ -15,3 +15,11 @@ description:
 <h1>Presentations<h1> <br>
 
 <h1>Posters<h1> <br>
+O’Day, G.M., & Karpicke, J. D. (November 2017). Does Self-Scoring Enhance Learning?
+Poster presented at the Psychonomic Society Annual Meeting, Vancouver, Canada <br>
+ 
+Ritchey, M., Gruber, M.J., Dhillon, A.S., O’Day, G.M., & Ranganath, C. (November 2016).
+Effects of emotional anticipation on neural oscillations involved in context-guided
+prediction. Poster presented at the Society for Neuroscience Annual Meeting, San Diego,
+CA.
+  
