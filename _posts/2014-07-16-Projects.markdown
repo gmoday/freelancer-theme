@@ -10,11 +10,11 @@ description:
 
 <div align="left">
   
-<h1>Publications<h1> <br>
+<h1>Publications</h1> <br>
 
-<h1>Presentations<h1> <br>
+<h1>Presentations</h1> <br>
 
-<h1>Posters<h1> <br>
+<h1>Posters</h1> <br>
 O’Day, G.M., & Karpicke, J. D. (November 2017). Does Self-Scoring Enhance Learning?
 Poster presented at the Psychonomic Society Annual Meeting, Vancouver, Canada <br>
  
