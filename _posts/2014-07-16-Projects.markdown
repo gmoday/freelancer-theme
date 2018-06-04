@@ -8,11 +8,8 @@ description:
 
 ---
 
-# Publications
 <h1>Publications<h1>
 
-# Presentations
 <h1>Presentations<h1>
 
-# Posters
 <h1>Posters<h1>
