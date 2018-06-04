@@ -4,7 +4,8 @@ modal-id: 3
 date: 2014-07-16
 img: projects.png
 alt: image-alt
-description: <h1> Presentations </h1> <br> <br> <br> <h4> Posters </h4>
+description: <h1> is old layout loading? </h1> <br> <br> <br> <h4> Posters </h4>
+
 ---
 
 does this content appear on the page?
