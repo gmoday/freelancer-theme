@@ -10,7 +10,7 @@ description:
 
 <div align="left">
   
-<font color = 42b0e5> <h1>Publications</h1> <br> </font color>
+<font color = 42b0e5> <h1>Publications</h1> <br> </font color = <42b0e5>
 
 <h1>Presentations</h1> <br>
 
