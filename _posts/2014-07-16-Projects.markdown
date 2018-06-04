@@ -4,7 +4,5 @@ modal-id: 3
 date: 2014-07-16
 img: projects.png
 alt: image-alt
-description: <div style="text-align: left"> <h1> Presentations </h1> <br> <br> <br> <h2> Posters </h2>
- </div>
-
+description: <h1> Presentations </h1> <br> <br> <br> <h4> Posters </h4>
 ---
