@@ -8,9 +8,9 @@ description:
 
 ---
 
-<div align="left">This is some text!
+<div align="left">
   
- <h1>Publications<h1> <br>
+<h1>Publications<h1> <br>
 
 <h1>Presentations<h1> <br>
 
