@@ -14,7 +14,7 @@ description:
 
 <font color = "42b0e5"> <h1>Presentations</h1> <br> </font>
 
-<font color = "42b0e5"> <h1>Posters</h1> <br> </font>
+<font color = "42b0e5"> <h1>Posters</h1> </font>
 <font size="4"> <font color = "black">
 O’Day, G.M., & Karpicke, J. D. (November 2017). Does Self-Scoring Enhance Learning?
 Poster presented at the Psychonomic Society Annual Meeting, Vancouver, Canada <br> <br>
