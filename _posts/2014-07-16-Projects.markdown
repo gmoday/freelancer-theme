@@ -8,7 +8,7 @@ description:
 
 ---
 
-<div align="left">This is some text!</div>
+<div align="left">This is some text!
   
  <h1>Publications<h1> <br>
 
