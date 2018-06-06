@@ -10,3 +10,4 @@ category: Web Development
 description: Coming Soon!
 
 ---
+[Test post]({{ gmoday.github.io }}{% post_url 2014-07-14-test %})
