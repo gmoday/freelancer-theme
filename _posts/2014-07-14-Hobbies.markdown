@@ -10,4 +10,4 @@ category: Web Development
 description: Coming Soon!
 
 ---
-[Test post] ({% post_url 2014-07-14-test %})
+[Test] ({% post_url 2014-07-14-test %})
